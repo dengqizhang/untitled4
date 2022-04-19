@@ -3,7 +3,6 @@ package cn.lnfvc;
 public class BubbleSort {
     //冒泡排序方法
     //1版本
-    //
     public static void BubbleSort1(){
         int[] arr = {24,69,89,57,13};
         //每比较一次后减掉被比较后最大值的元素
